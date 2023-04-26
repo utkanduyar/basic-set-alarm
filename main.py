@@ -1,4 +1,4 @@
-"""Projenin amacı : Orta seviyede gelişmiş alarm,kronometre ve zamanlayıcı uygulaması"""
+"""Projenin amacı : Orta seviyede gelişmiş basit alarm sistemi oluşturmak başlangıç tarihi: 01.02.2021"""
 import datetime
 import winsound
 AlarmListe = []
